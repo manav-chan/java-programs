@@ -1,0 +1,6 @@
+Q1. Write a java program to calculate the area of rectangle, square, and circle. Create an abstract class "Shape" with three abstract methods rectangleArea(), taking two parameters, squareArea(), circleArea() taking one parameter each. Now create another class Area containing all three methods for printing area of respective shapes.
+Q2. Write a java program to create an interface that consists of a method to display volume() as an abstract method and redefine the method in derived classes to suit their requirements.
+    Create classes called Cone, Hemisphere, and Cylinder that implements the interface using these three classes, design  a program that will accept dimensions of a cone, cylinder and hemisphere and display the volume
+    vol. of cone = 1/3 pi r square h
+    vol. of hemisphere = 2/3 pi r cube
+    vol. of cylinder = pi r square h.

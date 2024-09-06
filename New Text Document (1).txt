@@ -1,0 +1,11 @@
+Q1. Define a class "WordExample" having the following description:
+Data members: private String strdata - to store a sentence
+Parameterized Constructor - 
+WordExample(String) - Accept a sentence which may be terminated by either '.', '?', '!' only. The words may be separated by more than one blank space and are in upper case.
+Member Methods -
+void countWord() - Find the no. of words beginning and ending with a vowel
+void placeWord() - Place the words beginning and ending with a vowel at the beginning followed by the remaining words as they are in sentence.
+
+Q2. Write a java program to create a class called "ArrayDemo" and overload "arrayFunc()" function.
+void arrayFunc(int[], int) - To find all pairs of elements in an array whose sum is equal to a given number
+void arrayFunc(int A[], int P, int B[], int Q) - Given the sorted arrays A and B of size P and Q. Overload method "arrayFunc()" to merge elements of A with B maintaining the relative order ie fill A with first of smallest elements and fill B with remaining elements.

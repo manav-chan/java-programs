@@ -1,0 +1,6 @@
+Q1. Write a Java program to accept and print the employee details during runtime. The details will include employee id, name, and department id. The program should raise an exceptin if user inputs incomplete or incorrect data. The entered values should meet the following conditions.
+i) First letter of employee name should be in captial letter.
+ii) Employee id should be between 2001 and 5001
+iii) Deparment id should be an integer between 1 and 5.
+
+Q2. Create a class "MyCalculator" which consists of a single method power(int, int). This method takes two integers, n and p as parameters and finds n^p. If either n or p is negative, then the method must throw an exception which says "n and p should be non negative."
